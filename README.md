@@ -3,7 +3,7 @@
 
 MissChurchill/MissChurchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge.glitch.me/badge?https://github.com/MissChurchill=https://github.com/MissChurchill&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?https://github.com/MissChurchill/MissChurchill=https://github.com/MissChurchill/MissChurchill&left_color=green&right_color=red)
 
 Here are some ideas to get you started:
 
