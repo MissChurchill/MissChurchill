@@ -4,7 +4,7 @@ Welcome to my page!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MissChurchill.MissChurchill&left_color=green&right_color=red)
 
-Here are some ideas to get you started:
+Here is some info about me:
 
 - 🔭 I’m currently working on finishing up my Google training program
 - 🌱 I’m currently learning Python and Kotlin
